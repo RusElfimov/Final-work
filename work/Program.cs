@@ -1,6 +1,4 @@
-﻿
-
-void SortArray (string [] array)
+﻿void SortArray (string [] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
